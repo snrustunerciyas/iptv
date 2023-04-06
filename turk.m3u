@@ -1,0 +1,325 @@
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 11:20 18.03.2023 | TV#
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-1-izle.png" tvg-id2="NDIyMzE=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT 1 HD | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/atv-tv-canli.png" tvg-id2="NDIyMzE=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",ATV HD | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ecanlitv4.etvserver.com:8081/atv.m3u8?tkn=Zi6apYYzhT4oiWlRH-CAgw&tms=1679145184
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/show-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",SHOW TV HD | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-d-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",KANAL D HD | ULUSAL
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-7-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",KANAL 7 HD | ULUSAL
+https://ecanlitv4.etvserver.com:8081/kanal7.m3u8?tkn=iRIirCUBqK3R7SzzLV9DCQ&tms=1679145185
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/star-tv-izle-1.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",STAR TV HD | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/beyaz-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",BEYAZ TV HD | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/360-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",360 TV HD | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/tv-8-canli-2.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TV 8 HD | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-2-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT 2 | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-muzik-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT MUZİK | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-turk-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT TURK | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/mobese-kameralari.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",MOBESE KAMERALARI | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_anadolu_hisari.stream/chunklist_w12046225.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-4k-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT 4K | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-hd-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT HD | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-33.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",KANAL 33 | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://broadcasttr.com:446/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-3-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT 3 | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-arapca-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT ARAPÇA | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-kurdi.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT KURDİ | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/fashion-one-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",FASHION ONE TV | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/on-4-tv.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",ON 4 TV | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-world-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT WORLD | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/cine-5-tv.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",CİNE 5 | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/tgrt-eu-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TGRT EU | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/natural-tv-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",NATURAL TV | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-pati-kedi-tv.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",KANAL PATİ KEDİ TV | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://59cba4d34b678.streamlock.net/live/kanalpati/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/teve-63-canli-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TEVE 63 | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://arajans.ozelip.com:3234/live/arajanslive.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/tv-19.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",KANAL 19 | ULUSAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/cnn-turk-canli-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",CNN TÜRK | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/haberturk-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",HABERTÜRK | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ecanlitv4.etvserver.com/live_sd/haberturk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDExOjEzOjA5IEFNJmhhc2hfdmFsdWU9dlgzSGlIeGh1OG9xYWVVNjRUSlh2UT09JnZhbGlkbWludXRlcz0xMA==
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/a-haber-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",A HABER HD | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ecanlitv3.etvserver.com:8081/ahaber.m3u8?tkn=eTlZYmAo509a8VYCiISh0A&tms=1679145190
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-haber-canli-izle-1.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT HABER | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ecanlitv3.etvserver.com/live_sd/trthaber/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDExOjEzOjEwIEFNJmhhc2hfdmFsdWU9eDBaWFdLUEZKUGVrRGpsSnc5ckEydz09JnZhbGlkbWludXRlcz0xMA==
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/ulke-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",ÜLKE TV | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/haber-global-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",HABER GLOBAL | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/benguturk-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",BENGÜ TÜRK | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/ntv-hd-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",NTV HD | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ecanlitv3.etvserver.com:8081/ntv.m3u8?tkn=eTlZYmAo509a8VYCiISh0A&tms=1679145190
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/bloomberg-ht-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",BLOOMBERG HT | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ecanlitv4.etvserver.com:8081/bloomberght.m3u8?tkn=zqP45TfGgiqtHvVmubaqZw&tms=1679145191
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-24-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",24 TV HD | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/akit-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",AKİT TV | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/tvnet-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TV NET | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+ https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/halk-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",HALK TV HD | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ecanlitv4.etvserver.com:8081/halktv.m3u8?tkn=zqP45TfGgiqtHvVmubaqZw&tms=1679145191
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/euronews-turkce-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",EURONEWS TÜRKÇE | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/flash-tv-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",FLASH HABER TV | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ecanlitv3.etvserver.com/live_sd/flashtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDExOjEzOjEyIEFNJmhhc2hfdmFsdWU9NlQxL2haRURtZnBEc0pzL256dDR5Zz09JnZhbGlkbWludXRlcz0xMA==
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/tbmm-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TBMM TV | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/anadolu-ajansi-aa-canli-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",ANADOLU AJANSI AA | HABER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT 1  (4K)" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",TRT 1  (4K)
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/33319
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT 1 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",TRT 1 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30645
+#EXTINF:-1 tvg-id="" tvg-name="TR | ATV HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",ATV HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30652
+#EXTINF:-1 tvg-id="" tvg-name="TR | Beyaz Tv HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Beyaz Tv HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30654
+#EXTINF:-1 tvg-id="" tvg-name="TR | Kanal D HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Kanal D HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30646
+#EXTINF:-1 tvg-id="" tvg-name="TR | Kanal 7 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Kanal 7 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30655
+#EXTINF:-1 tvg-id="" tvg-name="TR | 360 TV HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",360 TV HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30682
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT Diyanet Tv" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",TRT Diyanet Tv
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30710
+#EXTINF:-1 tvg-id="" tvg-name="TR | Lalegul Tv" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Lalegul Tv
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30680
+#EXTINF:-1 tvg-id="" tvg-name="TR | Star Tv HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Star Tv HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30647
+#EXTINF:-1 tvg-id="" tvg-name="TR | Show Tv HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Show Tv HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30649
+#EXTINF:-1 tvg-id="" tvg-name="TR | TV8 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",TV8 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30650
+#EXTINF:-1 tvg-id="" tvg-name="TR | TV 8 5 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",TV 8 5 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30651
+#EXTINF:-1 tvg-id="" tvg-name="TR | A2 TV HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",A2 TV HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30653
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT Turk HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",TRT Turk HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30656
+#EXTINF:-1 tvg-id="" tvg-name="TR | SHOWMAX HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",SHOWMAX HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30657
+#EXTINF:-1 tvg-id="" tvg-name="TR | TEVE 2 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",TEVE 2 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30658
+#EXTINF:-1 tvg-id="" tvg-name="TR | Cay TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Cay TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30660
+#EXTINF:-1 tvg-id="" tvg-name="TR | KOY TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",KOY TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30661
+#EXTINF:-1 tvg-id="" tvg-name="TR | Kabe TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Kabe TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30662
+#EXTINF:-1 tvg-id="" tvg-name="TR | Mavi Karadeniz TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Mavi Karadeniz TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30663
+#EXTINF:-1 tvg-id="" tvg-name="TR | Semerkant HD Plus" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Semerkant HD Plus
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30664
+#EXTINF:-1 tvg-id="" tvg-name="TR | Power Tv HD Plus" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 MÜZİK",Power Tv HD Plus
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30665
+#EXTINF:-1 tvg-id="" tvg-name="TR | TJK Tv" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",TJK Tv
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30667
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT Kurdi HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",TRT Kurdi HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30668
+#EXTINF:-1 tvg-id="" tvg-name="TR | Kral POP Plus" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 MÜZİK",Kral POP Plus
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30669
+#EXTINF:-1 tvg-id="" tvg-name="TR | Fox Tv HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Fox Tv HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30648
+#EXTINF:-1 tvg-id="" tvg-name="TR | Kanal 3 TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Kanal 3 TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30671
+#EXTINF:-1 tvg-id="" tvg-name="TR | eM tv" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",eM tv
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30672
+#EXTINF:-1 tvg-id="" tvg-name="TR | KANALB HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",KANALB HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30673
+#EXTINF:-1 tvg-id="" tvg-name="TR | Show TURK TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Show TURK TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30674
+#EXTINF:-1 tvg-id="" tvg-name="TR | NR1 TV Plus" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 MÜZİK",NR1 TV Plus
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30675
+#EXTINF:-1 tvg-id="" tvg-name="TR | KANAL 58 TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",KANAL 58 TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30676
+#EXTINF:-1 tvg-id="" tvg-name="TR | NR1 Turk Plus" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 MÜZİK",NR1 Turk Plus
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30679
+#EXTINF:-1 tvg-id="" tvg-name="TR | Kral TV Plus" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 MÜZİK",Kral TV Plus
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30681
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT Avaz" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",TRT Avaz
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30686
+#EXTINF:-1 tvg-id="" tvg-name="TR | VATAN TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",VATAN TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30688
+#EXTINF:-1 tvg-id="" tvg-name="TR | UCAN KUS TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",UCAN KUS TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30689
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT Muzik HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 MÜZİK",TRT Muzik HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30694
+#EXTINF:-1 tvg-id="" tvg-name="TR | Power Turk HD Plus" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 MÜZİK",Power Turk HD Plus
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30696
+#EXTINF:-1 tvg-id="" tvg-name="TR | Dost TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Dost TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30701
+#EXTINF:-1 tvg-id="" tvg-name="TR | Kayseri TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Kayseri TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30702
+#EXTINF:-1 tvg-id="" tvg-name="TR | Medine TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Medine TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30703
+#EXTINF:-1 tvg-id="" tvg-name="TR | Guneydogu TV urfa" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Guneydogu TV urfa
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30704
+#EXTINF:-1 tvg-id="" tvg-name="TR | Milyon TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Milyon TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30705
+#EXTINF:-1 tvg-id="" tvg-name="TR | Can TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Can TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30706
+#EXTINF:-1 tvg-id="" tvg-name="TR | Bursa TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Bursa TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30712
+#EXTINF:-1 tvg-id="" tvg-name="TR | Altas TV Ordu" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Altas TV Ordu
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30713
+#EXTINF:-1 tvg-id="" tvg-name="TR | Kanal 33 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Kanal 33 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30714
+#EXTINF:-1 tvg-id="" tvg-name="TR | Tivi 6" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Tivi 6
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30715
+#EXTINF:-1 tvg-id="" tvg-name="TR | CEM TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",CEM TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30718
+#EXTINF:-1 tvg-id="" tvg-name="TR | Kardelen TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 ULUSAL",Kardelen TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30721
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT Haber HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",TRT Haber HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30691
+#EXTINF:-1 tvg-id="" tvg-name="TR | CNN Turk HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",CNN Turk HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30692
+#EXTINF:-1 tvg-id="" tvg-name="TR | A Haber HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",A Haber HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30720
+#EXTINF:-1 tvg-id="" tvg-name="TR | Ulke TV HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",Ulke TV HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30690
+#EXTINF:-1 tvg-id="" tvg-name="TR | Ulusal Kanal" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",Ulusal Kanal
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30687
+#EXTINF:-1 tvg-id="" tvg-name="TR | TV NET" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",TV NET
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30659
+#EXTINF:-1 tvg-id="" tvg-name="TR | Kanal 24 TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",Kanal 24 TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30700
+#EXTINF:-1 tvg-id="" tvg-name="TR | AKIT TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",AKIT TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30695
+#EXTINF:-1 tvg-id="" tvg-name="TR | Bengu Turk" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",Bengu Turk
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30678
+#EXTINF:-1 tvg-id="" tvg-name="TR | NTV TV HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",NTV TV HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30722
+#EXTINF:-1 tvg-id="" tvg-name="TR | Haber Global HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",Haber Global HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30709
+#EXTINF:-1 tvg-id="" tvg-name="TR | Haberturk HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",Haberturk HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30708
+#EXTINF:-1 tvg-id="" tvg-name="TR | TGRT Haber" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",TGRT Haber
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30683
+#EXTINF:-1 tvg-id="" tvg-name="TR | Halk Tv" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",Halk Tv
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30684
+#EXTINF:-1 tvg-id="" tvg-name="TR | Blomberg HT" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",Blomberg HT
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30719
+#EXTINF:-1 tvg-id="" tvg-name="TR | A News HD Plus" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",A News HD Plus
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30707
+#EXTINF:-1 tvg-id="" tvg-name="TR | TV5 TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",TV5 TV
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30670
+#EXTINF:-1 tvg-id="" tvg-name="TR | Tele 1 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",Tele 1 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30711
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT World HD Plus" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 HABER",TRT World HD Plus
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30685
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS HABER HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31454
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 FHD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS 1 FHD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31428
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS 1 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31429
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS HD 1 (SD)" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS HD 1 (SD)
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31430
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 (MOBIL)" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS 1 (MOBIL)
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31431
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 UHD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS 2 UHD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31432
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS 2 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31433
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 (SD)" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS 2 (SD)
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31434
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 UHD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS 3 UHD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31435
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS 3 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31436
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS 4 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31437
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS 5 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/33267
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 1 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS MAX 1 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31452
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 2 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",beIN SPORTS MAX 2 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31453
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 1 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",S-SPORT 1 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31456
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 2 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",S-SPORT 2 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31459
+#EXTINF:-1 tvg-id="" tvg-name="TR: spor SMART HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",spor SMART HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31455
+#EXTINF:-1 tvg-id="" tvg-name="TR: tivibu SPOR 1 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",tivibu SPOR 1 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31460
+#EXTINF:-1 tvg-id="" tvg-name="TR: tivibu SPOR 2 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",tivibu SPOR 2 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31461
+#EXTINF:-1 tvg-id="" tvg-name="TR: tivibu SPOR 3 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",tivibu SPOR 3 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31462
+#EXTINF:-1 tvg-id="" tvg-name="TR: tivibu SPOR 4 HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR 03 TR SPOR",tivibu SPOR 4 HD
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/34146
